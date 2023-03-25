@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Blur Level</title>
+    <style>
+      body {
+        width: 200px;
+        height: 100px;
+        padding: 10px;
+      }
+      input[type=range] {
+        width: 100%;
+        margin-bottom: 10px;
+      }
+      span {
+        display: block;
+        text-align: center;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <input type="range" min="0" max="100" value="0" id="blurLevel">
+    <span id="blurText">Blur Level: 0</span>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
