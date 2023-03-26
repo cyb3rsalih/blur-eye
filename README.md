@@ -22,7 +22,7 @@ It works with some bugs
 * I can't add a favicon.
 
 
-PR's wellcome!
+PR's welcome!
 
 
 # Made with ChatGPT Assistant
