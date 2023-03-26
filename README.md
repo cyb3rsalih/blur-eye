@@ -23,3 +23,6 @@ It works with some bugs
 
 
 PR's wellcome!
+
+
+# Made with ChatGPT Assistant
