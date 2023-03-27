@@ -17,7 +17,7 @@ It works with some bugs
 
 * It blurs only img tags
 
-* Blurring is not live, so the popups or contents appear after extension work may not affect
+* Blurring is not live, so the popups or contents appear after extension work may not effected
 
 * I can't add a favicon.
 
